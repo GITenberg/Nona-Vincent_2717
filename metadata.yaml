@@ -1,5 +1,5 @@
 _repo: Nona-Vincent_2717
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ subjects:
 - !lcc 'PS'
 - !lcsh 'Dramatists -- Fiction'
 - !lcsh 'London (England) -- Social life and customs -- 19th century -- Fiction'
+- GITenberg
 title: Nona Vincent
 url: http://www.gutenberg.org/ebooks/2717
